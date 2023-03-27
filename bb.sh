@@ -20,9 +20,9 @@ global_variables() {
     global_software_version="2.10"
 
     # Blog title
-    global_title="My fancy blog"
+    global_title="My Static Blog"
     # The typical subtitle for each blog
-    global_description="A blog about turtles and carrots"
+    global_description="A blog about how software affects education"
     # The public base URL for this blog
     global_url="http://example.com/blog"
 
@@ -31,7 +31,7 @@ global_variables() {
     # You can use twitter or facebook or anything for global_author_url
     global_author_url="http://twitter.com/example" 
     # Your email
-    global_email="p19vade@ionio.gr"
+    global_email="p2019vade@ionio.gr"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
     global_license="CC by-nc-nd"
@@ -104,7 +104,7 @@ global_variables() {
     body_begin_file_index=""
     # CSS files to include on every page, f.ex. css_include=('main.css' 'blog.css')
     # leave empty to use generated
-    css_include=()
+    css_include=('css/myStyles2.css')
     # HTML files to exclude from index, f.ex. post_exclude=('imprint.html 'aboutme.html')
     html_exclude=()
 

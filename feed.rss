@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Mon, 27 Mar 2023 22:43:06 +0000</lastBuildDate>
-<pubDate>Mon, 27 Mar 2023 22:43:06 +0000</pubDate>
+<channel><title>My Static Blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about how software affects education</description><language>en</language>
+<lastBuildDate>Mon, 27 Mar 2023 23:49:37 +0000</lastBuildDate>
+<pubDate>Mon, 27 Mar 2023 23:49:37 +0000</pubDate>
 <atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Object Oriented Programming &amp; Education
@@ -18,6 +18,8 @@ Some educators use popular programming languages like Java, Python, and C++ to t
 Regardless of the approach, the focus is typically on helping students to develop a strong understanding of OOP principles and best practices, as well as practical skills in writing object-oriented code.</p>
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
+
+
 
 <!-- text end -->
 ]]></description><link>http://example.com/blog/object-oriented-programming-amp-education.html</link>
